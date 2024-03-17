@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:nivelXML xmlns:ns2="xs">
+    <planetList>
+        <planet id="0">
+            <posX>347</posX>
+            <posY>119</posY>
+            <masa>379</masa>
+        </planet>
+        <planet id="1">
+            <posX>600</posX>
+            <posY>130</posY>
+            <masa>467</masa>
+        </planet>
+        <planet id="2">
+            <posX>285</posX>
+            <posY>390</posY>
+            <masa>499</masa>
+        </planet>
+        <planet id="3">
+            <posX>76</posX>
+            <posY>219</posY>
+            <masa>115</masa>
+        </planet>
+        <planet id="4">
+            <posX>601</posX>
+            <posY>440</posY>
+            <masa>376</masa>
+        </planet>
+        <planet id="5">
+            <posX>840</posX>
+            <posY>104</posY>
+            <masa>122</masa>
+        </planet>
+        <planet id="6">
+            <posX>789</posX>
+            <posY>342</posY>
+            <masa>270</masa>
+        </planet>
+    </planetList>
+    <argParticle>0.5109169503200423</argParticle>
+    <argTarget>0.2673511390250702</argTarget>
+    <idParticle>5</idParticle>
+    <idTarget>0</idTarget>
+</ns2:nivelXML>
